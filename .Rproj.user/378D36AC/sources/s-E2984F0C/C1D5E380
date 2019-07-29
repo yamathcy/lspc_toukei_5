@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564369327266.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3400771861",
+    "id" : "C1D5E380",
+    "lastKnownWriteTime" : 1564370555,
+    "last_content_update" : 1564370555069,
+    "path" : "~/lspc_toukei5/clusdter.R",
+    "project_path" : "clusdter.R",
+    "properties" : {
+        "cursorPosition" : "39,36",
+        "scrollLine" : "15",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
